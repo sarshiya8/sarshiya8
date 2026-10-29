@@ -12,7 +12,6 @@ I enjoy learning how things work, solving problems, and building projects as I g
 - ✨ Learning by building projects, one step at a time
 
 ### 🧸 tech stack
-
 ![C](https://img.shields.io/badge/C-7A9278?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-7A9278?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-7A9278?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-7A9278?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-7A9278?style=flat-square&logo=git&logoColor=white)
 
 ### 🌷 featured projects
